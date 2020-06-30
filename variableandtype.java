@@ -3,5 +3,11 @@ public class variableandtype {
     
     float f = 5.4f; // or float f = (float) 5.4;
 
-    
+    char g = 'g';
+
+    String s1 = new String("Hello there. ");
+    String s2 = "General Kenobi";
+    String movieLine = s1 + s2;
+
+    String personal = "My favorite number is " + myNumber + "!";
 }
